@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cypherus</string>
+    <string name="input_text_hint">Type Your Text Here!</string>
+    <string name="app_header">Cypherus</string>
+    <string name="app_subheader">Symemtric Key Encryption</string>
+    <string name="btn_text">Do Your Magic</string>
+    <string name="output_hint">Output Will Appear Here!</string>
+    <string name="developer">Developed by 21833241 N. Dindi</string>
+    <string name="developer_home">21833241 NTOBEKO DINDI</string>
+    <string name="enter_key_here">Enter Key Here</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+.    <string name="placeholder">placeholder</string>
+</resources>
